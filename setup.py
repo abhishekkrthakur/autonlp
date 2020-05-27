@@ -1,4 +1,4 @@
-from setuptools import setup,Ω Extension
+from setuptools import setup, Extension
 from setuptools import find_packages
 
 import autonlp
